@@ -47,7 +47,7 @@ You can also double-click `launch.bat` (Windows) or run `launch.sh` (macOS and L
 
 ## Credits
 
-- "Headpat" ending illustration: by [@xunlin123](https://www.pixiv.net/en/users/93392103) on Pixiv. Used here non-commercially; removal on request.
+- "Good" ending illustration: by [@xunlin123](https://www.pixiv.net/en/users/93392103) on Pixiv. Used here non-commercially; removal on request.
 - **Unofficial** fan project, not affiliated with the authors of *Black Souls*. The code is original; the lines are inspired by those of the game and adapted for this project.
 
 ## License
