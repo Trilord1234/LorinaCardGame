@@ -10,6 +10,8 @@ One card is face up, the other is face down: guess whether the hidden card is **
 
 When Lorina runs out of bacon, you can choose to keep going… or give her a headpat (literally). If you lose all three lives, she won't go easy on you.
 
+![1792567542167](image/README/1792567542167.png)
+
 ## Features
 
 - arrow-key menus (`questionary`) and colors (`colorama`);
