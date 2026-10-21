@@ -8,7 +8,7 @@ from colorama import Fore, Style
 import shutil
 from pathlib import Path
 
-IMAGE_HEADPAT = Path(getattr(sys, "_MEIPASS", Path(__file__).parent)) / "image" / "LorinaHeadPat.png"
+IMAGE_HEADPAT = Path(getattr(sys, "_MEIPASS", Path(__file__).parent.parent)) / "image" / "LorinaHeadPat.png"
 
 import LorinaDialogue as ld
 import LorinaUi as ui

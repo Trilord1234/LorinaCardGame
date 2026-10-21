@@ -34,13 +34,15 @@ You can also double-click `launch.bat` (Windows) or run `launch.sh` (macOS and L
 
 ```
 .
-├── LorinaCardGame.py     Start menu and game loop
-├── LorinaFunction.py     Game rules: wins, losses, endings
-├── LorinaUi.py           Display and typewriter effect
-├── LorinaDialogue.py     Lorina's lines
-├── LorinaLibrary.py      Game state and card lists
-├── image/                "Good" ending illustration
-└── launch.bat, launch.sh Launchers
+├── CodeFile/
+│   ├── LorinaCardGame.py     Start menu and game loop
+│   ├── LorinaFunction.py     Game rules: wins, losses, endings
+│   ├── LorinaUi.py           Display and typewriter effect
+│   ├── LorinaDialogue.py     Lorina's lines
+│   └── LorinaLibrary.py      Game state and card lists
+├── image/                    "Good" ending illustration
+└── launch.bat, launch.sh     Launchers
+
 ```
 
 ## Credits

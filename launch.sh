@@ -1,3 +1,3 @@
 #!/bin/bash
 cd "$(dirname "$0")"
-python3 LorinaCardGame.py
+python3 CodeFile/LorinaCardGame.py
