@@ -25,7 +25,7 @@ Requirements: **Python 3.8 or later** (tested with Python 3.12) and a terminal t
 
 ```bash
 pip install -r requirements.txt
-python LorinaCardGame.py
+python CodeFile/LorinaCardGame.py
 ```
 
 You can also double-click `launch.bat` (Windows) or run `launch.sh` (macOS and Linux). Make the terminal window large enough for the ending image to fit.
